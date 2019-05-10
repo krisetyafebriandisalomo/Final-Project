@@ -1,0 +1,73 @@
+body {
+  font-family: "Lato", sans-serif;
+  background-color: rgb(218, 216, 216);
+}
+
+.sidebarkiri {
+  height: 100%;
+  width: 230px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #1E1F26;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+progress {
+  margin-left: 16px; 
+  color: rgb(255, 255, 255);
+}
+.h1 {
+  padding: 6px 8px 6px 16px;
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+}
+.p {
+  padding: 0px 0px 0px 0px;
+  color: #000000;
+  font-size: 12px;
+}
+h2{
+  font-size: 50px;
+  
+}
+.h3 {
+  padding: 0px 0px 0px 0px;
+  color: #000000;
+  font-size: 30px;
+}
+.sidebarkiri a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 14px;
+  color: rgb(185, 185, 185);
+  display: block;
+}
+
+.sidebarkiri a:hover {
+  color: #f1f1f1;
+}
+
+.main {
+  margin-left: 230px; 
+  font-size: 28px; 
+  padding: 0px 10px;
+  
+  
+}
+img {
+  border-radius: 60%;
+  width: 200px;
+  height: 200px;
+  border-style: solid;
+  border-color: rgb(218, 216, 216);
+}
+table {
+  border: solid rgb(218, 216, 216);
+  padding: 0px 30px 10px 0px;
+}
+th, td {
+  border: solid rgb(218, 216, 216);
+  padding: 0px 30px 0px 0px;
+}

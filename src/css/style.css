@@ -1,0 +1,39 @@
+p { 
+    color:blue;
+}
+
+@media (max-width:768px){ /* medium */
+    p {
+       color:red;
+    } 
+}
+
+@media (min-width:769px) and (max-width:991px){ /* small*/
+    p {
+       color:green;
+    } 
+}
+
+@media (min-width:992px) and (max-width:1199px){ /* x-small*/
+    p {
+       color:orange;
+    }
+} 
+
+@media (min-width:1200px){ /* medium */
+    p {
+       color:blue;
+    }
+}
+body {
+    font-family: "Lato", sans-serif;
+    background-color: rgb(255, 255, 255);
+    
+}
+.subscribe {
+    background-color: rgb(218, 216, 216);
+}
+
+  
+
+  

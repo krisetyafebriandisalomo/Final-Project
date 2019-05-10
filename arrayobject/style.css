@@ -1,0 +1,20 @@
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  
+  background-color: rgb(236, 254, 255); 
+
+}
+h1, h2 {
+    font-family: arial, sans-serif;
+}
+
+td, th {
+  border: 1px solid rgb(236, 254, 255);
+  text-align: center;
+  padding: 8px;
+}
+
+tr {
+    
+}
